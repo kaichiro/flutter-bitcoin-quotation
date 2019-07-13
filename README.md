@@ -1,4 +1,24 @@
-# app_bitcoin
+# Bitcoin quotation app done in Flutter.
+
+---
+
+- [Install Flutter](https://flutter.dev/docs/get-started/install)
+
+
+Run this project
+
+```sh
+flutter run
+```
+
+---
+
+
+
+![](./video/main.gif)
+![](./video/main-1.gif)
+
+---
 
 A new Flutter project.
 
